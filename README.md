@@ -1,4 +1,5 @@
 ## Student Registration System
+https://github.com/gautam-vaishnav016/Student-Registration-System
 
 This project demonstrates CRUD operations, client-side validation, and responsive UI development using Tailwind CSS.
 A modern and responsive **Student Registration System** built using **HTML, Tailwind CSS, and JavaScript**.  
